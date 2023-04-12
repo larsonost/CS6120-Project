@@ -13,7 +13,7 @@ __pycache__/
 __pycache__/
 tests.xml
 *.tsv
-# *.csv
+*.csv
 *.tar
 # *.json
 *.bin
