@@ -14,6 +14,7 @@ Each notebook name describes the model type and dataset it will run.
 
 MSRP_Glove: please ensure the 2nd and 11th code block reference the file path for the MRPC dataset train/test files (located in the data folder).
 QQP_Glove: please ensure the 3rd code block references the file path for the QQP training set
+
 glove-embedding-paws-mrcp: This file is capable of running both the MRPC and PAWS dataset. It is currently configured for PAWS. This choice can be edited within the 4th code block.
 
 ### How to run the BERT models:
