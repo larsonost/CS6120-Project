@@ -1,4 +1,4 @@
-## Project Title: Paraphrase Detection Using Neural Networks
+## Project Title: ParaDetect
 
 ### Introduction
 This project aims to develop neural network models to detect pairs of paraphrased texts. Paraphrasing is the act of conveying the same meaning of text through rephrasing or rearranging its contents. The detection of paraphrased text can be useful in many applications such as identifying duplicate questions on online platforms, acting as an information retrieval tool for finding answers to similarly posed questions, and plagiarism detection for academic institutions. 
