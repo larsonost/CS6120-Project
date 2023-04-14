@@ -31,7 +31,7 @@ Multiple embedding methods were used in the development of the neural network mo
 
 2. Running instructions on how to run the code:
 
-`Click Here`[https://github.com/larsonost/CS6120-Project/blob/main/Running_Instructions.md] to run the code
+[`Click Here`](https://github.com/larsonost/CS6120-Project/blob/main/Running_Instructions.md) to run the code
 
 3. To predict paraphrased text pairs using the trained model, run the following command:
 
