@@ -22,3 +22,6 @@ Each notebook name describes the model type and dataset it will run.
 
 MSRP_Bert: Please ensure the 3rd and 4th code blocks reference the file path for the MRPC dataset train/test files (located in the data folder).
 QQP_PAWS_BERT: Please ensure the first code block refers to the file path of the PAWS dataset.
+
+### Optional EDA File:
+During the project, we completed an EDA phase where we inspected the datasets. Several of the plots were included on our report. This file is located in the main directory titled "Data_Preprocessing_EDA". The file is configured to evaluate the PAWS dataset. The file path is referenced in the first code block.
