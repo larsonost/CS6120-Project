@@ -7,9 +7,10 @@ This project aims to develop neural network models to detect pairs of paraphrase
 The dataset used for this project is a collection of pairs of sentences, where each pair is labelled as either "paraphrased" or "not paraphrased." The dataset is publicly available and has been previously used for research in the field.
 
 Name of the datasets:
-PAWS
-Quora Question Pairs (QQP)
-MRCP
+
+1. PAWS
+2. Quora Question Pairs (QQP)
+3. MRCP
 
 ### Methods
 Multiple embedding methods were used in the development of the neural network models for paraphrase detection. The models were evaluated using metrics such as accuracy, F1, precision, and recall. Comparative research performance on the datasets used ranges from 70% to 80%, and the models developed in this project have comparable or higher accuracies ranging from 65% to 93%.
