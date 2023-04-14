@@ -37,6 +37,11 @@ Multiple embedding methods were used in the development of the neural network mo
 
 Run the last block in the following file `BERT/QQP_PAWS_BERT.ipynb`
 
-4. Authors
+### Future Work
 
-Swarnima Deshmukh, Parag Ghorpade, Larson Ost, & Smit Shah
+To improve on this project, we suggest several avenues for future work where we intend to further optimize the BERT model specifically for the challenges presented by the PAWS dataset. This could include experimenting with different pre-processing techniques, fine-tuning the hyperparameters of the model, or using additional techniques such as data augmentation. We also would like to explore other NLP models such as GPT-3, T5, and XLNet, which have shown promise in recent research and may be well suited to handle the challenges faced by the paws dataset, We aim to further expand the study to include other paraphrase datasets similar to the characteristics of the paws, to gain a better understanding of the model’s performance and generalizability across different datasets. Finally, we would like to use ensembling techniques to combine the strength of different models and improve overall performance on paraphrase detection tasks
+
+
+
+<p align="center">Swarnima Deshmukh, Parag Ghorpade, Larson Ost, & Smit Shah</p>
+
